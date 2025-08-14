@@ -11,6 +11,7 @@ alwaysApply: true
 -   Use `yarn jest <filename> --verbose` to run specific tests with detailed output
 -   Use `yarn jest --coverage <filename>` to check coverage for specific files
 -   Use `yarn jest --detectOpenHandles` to debug hanging tests
+-   Use `.test.tsx` termination for unit tests
 
 ## Essential Testing Patterns
 
